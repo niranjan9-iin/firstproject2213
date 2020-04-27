@@ -1,5 +1,12 @@
 import java.util.*;
 
+/*
+input={1,3,5,8,9,2,6,7,6,8,9}
+output=3  //number of jumps.
+
+*/
+
+
 
 public class Mainp {
 
@@ -37,16 +44,6 @@ public class Mainp {
 
 		System.out.println(count);
 		
-	
-		
-		
-		
-		
-		
-		
-		
-		
-
 	}
 
 }
